@@ -2,8 +2,8 @@
 
 # Database credentials
 DB_NAME="posey"
-DB_USER="sylviaokwu"  # Replace with your PostgreSQL user
-DB_PASSWORD="Ritasylvia"  # Replace with your PostgreSQL password
+DB_USER="sylviaokwu"  
+DB_PASSWORD="sylvia" 
 CSV_DIR="/Users/sylviaokwu/Documents/Scripts/posey_csv" # Directory where CSV files are located
 
 # Export the database password for non-interactive usage
